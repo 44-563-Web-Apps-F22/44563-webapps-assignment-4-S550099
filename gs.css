@@ -47,7 +47,7 @@ h6.name:hover,h6.name:active
 ul{
     list-style-type: none;
     margin:0;
-    padding: 0;
+    padding:0;
     overflow: hidden;
     background-color: bisque;
 }
@@ -57,7 +57,7 @@ li{
 li a{
     display: block;
     color:blueviolet;
-    text-align: center;
-    padding: 15px 17px;
+    text-align:center;
+    padding: 14px 15px;
     text-decoration: none;
 }
