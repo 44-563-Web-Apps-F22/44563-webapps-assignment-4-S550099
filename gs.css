@@ -24,3 +24,11 @@ h6.name
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
     color:yellow;
 }
+table.table
+{
+    border:2mm;
+    color:darkmagenta;
+    text-align: center;
+    padding: 60px;
+    margin:20px;
+}
