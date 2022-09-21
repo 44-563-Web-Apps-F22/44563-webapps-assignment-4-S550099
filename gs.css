@@ -1,0 +1,93 @@
+p.speech{
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+}
+p.song{
+    font-size: 13px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+}
+p.direction{
+    font-size: 14px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    color:rgb(99, 93, 93);
+}
+direction:hover
+{
+    background-color: antiquewhite;
+    color: rgb(16, 215, 86);
+}
+h6.name
+{
+    font-size: 15px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    color:black;
+}
+.CHO
+{
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(118, 63, 63);
+}
+.CHO
+{
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(118, 63, 63);
+}
+.VIT
+{
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(59, 12, 247);
+
+}
+.BOTH
+{
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(13, 236, 132);
+ 
+}
+.ALL
+{
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(236, 13, 150);
+ 
+}
+.GIU
+{
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(162, 236, 13);
+ 
+}
+.TESS
+{
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(236, 132, 13);
+ 
+}
+.GIA
+{
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(123, 182, 207);
+ 
+}
+.MAR
+{
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(16, 243, 190);
+ 
+}
+
+
+
+
+
+
