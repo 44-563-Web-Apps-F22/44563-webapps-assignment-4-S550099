@@ -1,17 +1,17 @@
 p.speech{
     font-size: 12px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:black;
+    color:red;
 }
 p.song{
     font-size: 13px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color:black;
+    color:aqua;
 }
 p.direction{
     font-size: 14px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
-    color:rgb(99, 93, 93);
+    color:burlywood;
 }
 direction:hover
 {
