@@ -36,3 +36,28 @@ tr:nth-child(even)
 {
     background-color: aquamarine;
 }
+h6.name:hover,h6.name:active
+{
+    text-shadow: 3px 3px 3px blue;
+    border:11px;
+    border-color:brown;
+    border-style: dotted;
+
+}
+ul{
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+    background-color: bisque;
+}
+li{
+    float:left;
+}
+li a{
+    display: block;
+    color:blueviolet;
+    text-align: center;
+    padding: 15px 17px;
+    text-decoration: none;
+}
