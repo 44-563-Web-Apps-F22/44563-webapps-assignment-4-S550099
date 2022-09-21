@@ -18,24 +18,13 @@ direction:hover
     background-color: antiquewhite;
     color: rgb(16, 215, 86);
 }
-h6.name
+h6.name (.CHO)
 {
     font-size: 15px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
-    color:greenyellow;
+    color:goldenrod;
 }
-.CHO
-{
-    font-size: 16px;
-    font-family:Arial, Helvetica, sans-serif;
-    color:rgb(118, 63, 63);
-}
-.CHO
-{
-    font-size: 16px;
-    font-family:Arial, Helvetica, sans-serif;
-    color:rgb(118, 63, 63);
-}
+
 .VIT
 {
     font-size: 16px;
